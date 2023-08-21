@@ -1,16 +1,18 @@
 <script>
 import Title from "./components/apptitle.vue"
+import Hero from "./components/AppHero.vue"
 export default {
   components: {
     Title,
+    Hero,
   }
 }
 </script>
 
 <template>
-  <Title>
+<Title/>
+<Hero/>
 
-  </Title>
 </template>
 
 <style>
