@@ -1,5 +1,5 @@
 <script>
-import Title from "./components/apptitle.vue"
+import Title from "./components/AppTitle.vue"
 import Hero from "./components/AppHero.vue"
 export default {
   components: {
